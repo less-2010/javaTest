@@ -1,0 +1,10 @@
+{
+    "maven.view": "hierarchical",
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.dependency.syncWithFolderExplorer": true,
+    "githubPullRequests.remotes": [
+        "origin",
+        "upstream",
+        "login"
+    ]
+}

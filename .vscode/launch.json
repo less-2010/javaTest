@@ -1,0 +1,189 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo02",
+            "request": "launch",
+            "mainClass": "day04.Demo02",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test1",
+            "request": "launch",
+            "mainClass": "day04.Test1",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo01",
+            "request": "launch",
+            "mainClass": "day04.Demo01",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo05",
+            "request": "launch",
+            "mainClass": "day03.Demo05",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test4",
+            "request": "launch",
+            "mainClass": "day03.test4",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo04",
+            "request": "launch",
+            "mainClass": "day03.Demo04",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test3",
+            "request": "launch",
+            "mainClass": "day03.test3",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo03",
+            "request": "launch",
+            "mainClass": "day03.Demo03",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test02",
+            "request": "launch",
+            "mainClass": "day03.test02",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo02",
+            "request": "launch",
+            "mainClass": "day03.Demo02",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - demo01",
+            "request": "launch",
+            "mainClass": "day03.demo01",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test1",
+            "request": "launch",
+            "mainClass": "day02.test1",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo05",
+            "request": "launch",
+            "mainClass": "day02.Demo05",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - demo03",
+            "request": "launch",
+            "mainClass": "day02.demo03",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "day02.test",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo01",
+            "request": "launch",
+            "mainClass": "day02.Demo01",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo02",
+            "request": "launch",
+            "mainClass": "day02.Demo02",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DemoApplication<demo01>",
+            "request": "launch",
+            "mainClass": "com.example.demo01.DemoApplication",
+            "projectName": "demo01"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Demo01<java_122132ec>",
+            "request": "launch",
+            "mainClass": "day01.Demo01",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Demo02<java_122132ec>",
+            "request": "launch",
+            "mainClass": "day01.Demo02",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Demo03<java_122132ec>",
+            "request": "launch",
+            "mainClass": "day01.Demo03",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Demo04<java_122132ec>",
+            "request": "launch",
+            "mainClass": "day02.Demo04",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Person<java_122132ec>",
+            "request": "launch",
+            "mainClass": "dome01.Person",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DemoApplication<java_122132ec>",
+            "request": "launch",
+            "mainClass": "dome02.demo01.src.main.java.com.example.demo01.DemoApplication",
+            "projectName": "java_122132ec"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-wc_Arr<java_122132ec>",
+            "request": "launch",
+            "mainClass": "dome02.wc_Arr",
+            "projectName": "java_122132ec"
+        }
+    ]
+}
