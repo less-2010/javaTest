@@ -21,9 +21,10 @@
         JDK 1.2
         JDK 1.1
         JDK 1.0
-        
-	[参考链接](https://blog.csdn.net/hzzhu039/article/details/105719212?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.nonecase)
+	
+        [参考链接](https://blog.csdn.net/hzzhu039/article/details/105719212?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.nonecase)
 3. Java语言的平台
+
             JavaSE
             JavaEE
             JavaME(Android)
