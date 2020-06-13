@@ -31,7 +31,7 @@
             JavaSE
             JavaEE
             JavaME(Android)
-	    [参考链接](https://www.oracle.com/java/technologies/oracle-java-archive-downloads.html)
+	  [参考链接](https://www.oracle.com/java/technologies/oracle-java-archive-downloads.html)
 	    
 4. Java语言的特点
 
